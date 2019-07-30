@@ -1,5 +1,5 @@
-udp_over_lossy_link
-# Reliable Custom UDP Protocol 
+reliable-udp-file-transfer
+# Reliable Custom UDP Protocol to transfer files over Lossy Links
 An application-level file transfer protocol built on top of UDP using novel bandwidth-monitoring techniques to beat FTP and SCP throughputs.
 
 ![alt text](https://github.com/zpazooki/udp_over_lossy_link/blob/master/img/1.png)
