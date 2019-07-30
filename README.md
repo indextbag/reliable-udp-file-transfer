@@ -1,0 +1,2 @@
+# udp_over_lossy_link
+An application-level file transfer protocol built on top of UDP using novel bandwidth-monitoring techniques to beat FTP and SCP throughputs.
