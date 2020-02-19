@@ -4,7 +4,7 @@ An application-level file transfer protocol built on top of UDP using novel band
 
 ## Demo walkthrough video of code and simulation in linux datacenter environment
 (presentation slides are attached below the video link)
-[![alt text](https://github.com/zpazooki/reliable-udp-file-transfer/blob/master/img/video.jpg)](https://youtu.be/x010qYtTkBM)
+[![alt text](https://github.com/zpazooki/reliable-udp-file-transfer/blob/master/img/video.png)](https://youtu.be/x010qYtTkBM)
 
 ![alt text](https://github.com/zpazooki/reliable-udp-file-transfer/blob/master/img/1.png)
 
