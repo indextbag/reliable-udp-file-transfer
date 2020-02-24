@@ -3,7 +3,7 @@ reliable-udp-file-transfer
 An application-level file transfer protocol built on top of UDP using novel bandwidth-monitoring techniques to beat FTP and SCP throughputs.
 
 ## Demo walkthrough video of code and simulation in linux datacenter environment
-(presentation slides are attached below the video link)
+(presentation slides are attached below the video link) 
 [![alt text](https://github.com/hpazooki/reliable-udp-file-transfer/blob/master/img/video.png)](https://youtu.be/x010qYtTkBM)
 
 ![alt text](https://github.com/hpazooki/reliable-udp-file-transfer/blob/master/img/1.png)
